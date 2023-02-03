@@ -49,15 +49,15 @@ function generateMarkdown(answers) {
   ## ${renderLicenseSection(answers.rmLicense)} ${renderLicenseBadge(answers.rmLicense)}
   ### ${renderLicenseLink(answers.rmLicense)}
   ## Table of Contents
-  ###-[Description](#rmDescription)
-  ###-[Project](#rmTitle)
-  ###-[Installation](#rmInstallation)
-  ###-[Project Usage](#rmUsage)
-  ###-[Project Authors](#rmAuthors)
-  ###-[Github](#rmGithub)
-  ###-[Email](#rmEmailAddress)
-  ###-[Testing Instructions](#rmTestingInstructions)
-  ###-[License Info](#rmLicense)
+  ### * [Description](#description)
+  ### * [Project](#title)
+  ### * [Installation](#installation)
+  ### * [Project Usage](#usage)
+  ### * [Project Authors](#authors)
+  ### * [Github](#github)
+  ### * [Email](#emailAddress)
+  ### * [Testing Instructions](#testingInstructions)
+  ### * [License Info](#license)
   ## Description
   ### ${answers.rmDescription}
   ## Title
