@@ -13,20 +13,24 @@
   ### * [Testing Instructions](#testingInstructions)
   ### * [License Info](#license)
   ## Description
-  ### asd
+  ### Read Me Generator
   ## Title
-  ### asd
+  ### Read Me Generator
   ## Installation
-  ### asd
+  ### installation steps
   ## Usage
-  ### asd
+  ### usage info
   ## Authors
-  ### asd
+  ### jdlc, youtube, tutor
   ## Github
-  ### asd
+  ### readme.github.com
   ## Email
-  ### asd
+  ### github@gmail.com
   ## Testing Instructions
-  ### asd
+  ### asdf
   ## License 
   ### Apache License 2.0
+
+  # Video:
+
+ [Video URL](https://watch.screencastify.com/v/BYyi7uhlBfmk9QpZ6Nkl)

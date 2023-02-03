@@ -4,7 +4,7 @@ const fs = require('fs');
 
 
 
-// TODO: Create an array of questions for user input
+// Created an array of questions for user input
 let Inputquestions = [
     {
         type: "input",
@@ -59,7 +59,7 @@ let Inputquestions = [
 
 ];
 
-// TODO: Create a function to write README file
+//  Created a function to write README file
 const generateReadMe = createFile => {
     return new Promise((resolve, reject)=> {
         fs.writeFile('./generatedReadMe.md', createFile, err => {
@@ -75,7 +75,7 @@ const generateReadMe = createFile => {
 }
 
 
-// TODO: Create a function to initialize app
+//  Created a function to initialize app
 function init() {
     inquirer.prompt(Inputquestions)
     .then(function(answers) {
