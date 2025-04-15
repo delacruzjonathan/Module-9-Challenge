@@ -1,4 +1,4 @@
-# Module-9-Module : README Generator
+# Module-6-Module : README Generator
 
 ## Description
 
